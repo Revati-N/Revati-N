@@ -3,7 +3,7 @@
 - 🌱 I’m constantly trying to improve myself.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=revati-n)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=revati-n&theme=bear&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 Revati-N/Revati-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
