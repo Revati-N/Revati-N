@@ -32,15 +32,6 @@ Beyond coding, I'm an **avid reader, guitarist, and artist** who enjoys blending
 
 ---
 
-## 🎖️ Certifications
-
-✅ **TensorFlow on Google Cloud**  
-✅ **EDA Methodology (IBM)**  
-✅ **Data Science Methodology (IBM)**  
-✅ **Cybersecurity Specialization (Google)**  
-
----
-
 ## 📫 Let's Connect!
 
 🔗 [LinkedIn](http://www.linkedin.com/in/revati-natu)  
